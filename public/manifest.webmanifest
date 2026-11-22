@@ -1,0 +1,33 @@
+{
+  "name": "KLAR — Vejrudsigt",
+  "short_name": "KLAR",
+  "description": "Høj-kontrast vejr-PWA med time- og 7-dagesprognose, UV, vind, nedbør, luftkvalitet og geolokation.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#071326",
+  "theme_color": "#071326",
+  "lang": "da",
+  "categories": ["weather", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
